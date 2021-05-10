@@ -1,6 +1,4 @@
-//calculate the total number of combinations
-//with numbers smaller than or equal to with a number 
-//whose sum and XOR are equal.
+//Calculate the total number of combinations with numbers smaller than or equal to with a number  whose sum and XOR are equal.
 
 //Mathematically speaking find i's such that 
 // 0 <= i <= n and n+i = n^i

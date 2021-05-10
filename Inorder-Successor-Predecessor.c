@@ -1,7 +1,4 @@
-/* 
-Problem Statement : C code for finding Inorder Successor and Predecessor.
-Author : Projjal Gop
-*/
+//Finding inorder sucessor/predecessor in Cpp
 
 #include<stdio.h>
 #include<stdlib.h>

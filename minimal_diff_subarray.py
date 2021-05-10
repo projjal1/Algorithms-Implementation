@@ -1,3 +1,5 @@
+#Find out the minimum difference between two subarrays of an array
+
 arr=list(map(int,input("Input the String of integers : ").split()))
 n=len(arr)
 
@@ -20,3 +22,5 @@ for x in range(1,n):
         print(arr[:x-1])
         print(arr[x-1:])
         break
+
+print("The minimum difference of two subarrays is :",min)

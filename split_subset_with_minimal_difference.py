@@ -1,3 +1,5 @@
+#Split an array into two subarray with minimum difference
+
 arr=[int(x) for x in input().split()]
 l=len(arr)
 
